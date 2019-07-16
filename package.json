@@ -31,7 +31,7 @@
     "danger": "^7.0.0",
     "danger-plugin-digitalcitizenship": "*",
     "italia-tslint-rules": "*",
-    "italia-utils": "^4.0.1",
+    "italia-utils": "aymen94/io-utils-build",
     "jest": "^24.8.0",
     "prettier": "^1.12.1",
     "rimraf": "^2.6.2",
